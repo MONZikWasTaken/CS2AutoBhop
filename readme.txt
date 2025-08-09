@@ -22,4 +22,5 @@ AutoBhopSpace = автобхоп без колесика, чисто на про
 
 Ахк из видео твика - https://www.youtube.com/watch?v=oxTDG69jFM8
 
-Обновил уже вот новый репозиторий с скриптом на автобхоп но уже на C#, работать будет у всех, гарантирую. https://github.com/MONZikWasTaken/CS2-AutoBhop-CSharp
+Обновил уже вот новый репозиторий с скриптом на автобхоп но уже на C#, работать будет у всех, гарантирую.
+https://github.com/MONZikWasTaken/CS2-AutoBhop-CSharp
